@@ -1,0 +1,2 @@
+[console_scripts]
+domainchecker = domainchecker.cli:main

@@ -19,7 +19,7 @@ def get_version():
     return "1.0.0"
 
 setup(
-    name="domainchecker",
+    name="domainchecker-taxlien",
     version=get_version(),
     author="TaxLien Team",
     author_email="team@taxlien.online",

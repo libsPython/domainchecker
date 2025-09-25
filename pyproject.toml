@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "domainchecker"
+name = "domainchecker-taxlien"
 version = "1.0.0"
 description = "Comprehensive domain checking, WHOIS lookup, and DNS resolution library"
 readme = "README.md"
